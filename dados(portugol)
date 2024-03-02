@@ -1,0 +1,11 @@
+programa {
+  funcao inicio() {
+    escreva("meu nome :\n")
+    cadeia jonas
+    leia(jonas)
+    escreva("sua idade:\n")
+    inteiro vinteum
+    leia(21)
+    escreva("sua altura:\n")
+    real umoitenta
+    leia(1.80)
