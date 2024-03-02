@@ -1,0 +1,5 @@
+programa {
+  funcao inicio() {
+      escreva("meu nome é :\n")
+      cadeia jonas
+      leia(jonas)
